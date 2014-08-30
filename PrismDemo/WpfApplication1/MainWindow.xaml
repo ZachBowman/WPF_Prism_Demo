@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Views="clr-namespace:WpfApplication1.Views"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Views:ColorThingy Margin="95,0,70,46" />
+    </Grid>
+</Window>

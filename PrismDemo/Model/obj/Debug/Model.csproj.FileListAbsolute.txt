@@ -1,0 +1,5 @@
+C:\TFS\WpfApplication1\Model\bin\Debug\Model.dll
+C:\TFS\WpfApplication1\Model\bin\Debug\Model.pdb
+C:\TFS\WpfApplication1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\TFS\WpfApplication1\Model\obj\Debug\Model.dll
+C:\TFS\WpfApplication1\Model\obj\Debug\Model.pdb
